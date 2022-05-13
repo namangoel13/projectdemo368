@@ -4,7 +4,9 @@
 	directory = %(prefix)///fileserver/ratnesh.tiwari/
 	directory = %(prefix)///fileserver/ratnesh.tiwari/
 [user]
-	name = Juberiya Zaheer
-	email = 201b152@juetguna.in
+	name = JuberiyaZ
+	email = 201b131@juetguna.in
 [juberiya]
 	zaheer = juberiya Zaheer
+[gui]
+	recentrepo = N:/201B189_GIT

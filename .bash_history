@@ -1,14 +1,17 @@
-pwd
-git clone https://github.com/akanksha-2004/firstproject.git
-ls
-LS
-git clone https://github.com/akanksha-2004/project1.git
-ls
-cd project1
+git pull
+clear
+git pull
+git add .
+git commit -m "one added"
+git pull
+git add .
+git status
+git commit -m "Merged Changes done"
+git push
 git pull
 git checkout -b Experiment
 git add .
-git commit -m "add a new line"
+git commit -m "Bhutan Added"
 git status
 git push
 git push --set-upstream origin Experiment
@@ -17,195 +20,70 @@ git branch -d Experiment
 git checkout main
 git branch -d Experiment
 git branch
-git clone https://github.com/sarkar122/First_Project_201B019.git
+pwd
+ls
+cd 201b189_git
+ls
+cd mad_project
+ls
+cat readme.md
 git push
-git pull
-cd N:/First_Project_201B019
-git pull
-git fetch
-git pull
-git pull
-cd C:/Users/ratnesh.tiwari/Desktop/First_Project_201B019
-git pull
+git clone https://github.com/ProfessorPrasam/MAD_project.git
+ls
+git add 
+git add .
+git commit
+git commit "new commit"
+git add readme.md
 git status
-git init
+git commit -m
+git commit -m "Add a commit new"
+git piush
+git push
+git status
+git add readme.md
+git 
+git add readme.md
+git status
 git add .
-git commit -m"init commit"
-git push remote add origin 
-ratnesh.tiwari@CL4-434 MINGW64 ~
-$ git clone https://github.com/sarkar122/First_Project_201B019.git
-fatal: destination path 'First_Project_201B019' already exists and is not an empty directory.
-ratnesh.tiwari@CL4-434 MINGW64 ~
-$ git push
-fatal: unsafe repository ('//fileserver/ratnesh.tiwari/' is owned by someone else)
-To add an exception for this directory, call:
-        git config --global --add safe.directory '%(prefix)///fileserver/ratnesh.tiwari/'
-ratnesh.tiwari@CL4-434 MINGW64 ~
-$ git pull
-fatal: unsafe repository ('//fileserver/ratnesh.tiwari/' is owned by someone else)
-To add an exception for this directory, call:
-        git config --global --add safe.directory '%(prefix)///fileserver/ratnesh.tiwari/'
-ratnesh.tiwari@CL4-434 MINGW64 ~
-$ cd N:/First_Project_201B019
-ratnesh.tiwari@CL4-434 MINGW64 /n/First_Project_201B019
-$ git pull
-fatal: unsafe repository ('//fileserver/ratnesh.tiwari/' is owned by someone else)
-To add an exception for this directory, call:
-        git config --global --add safe.directory '%(prefix)///fileserver/ratnesh.tiwari/'
-git remote add origin https://github.com/sarkar122/second-project.git
+git status
+git commit -m "add date"
 git push
- git push --set-upstream origin master
-git checkout -b sarkar
-git add .
-git commit -m" hello word added"
+ git config --global user.name "ProfessorPtrasam"
+ git config --global user.name "ProfessorPrasam"
+ git config --global user.email "201b189@juetguna.in"
 git push
-    git push --set-upstream origin sarkar
+git login
+git login
 git push
-git push
-git --version
-git clone https://github.com/git-arjav/Tic-Tac-Toe.git
-cd Tic-Tac-Toe/
-git remote set-url https://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@github.com/git-arjav/Tic-Tac-Toe.git
-git remote set-url https://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@github.com/git-arjav/Tic-Tac-Toe.git
-git remote set-url origin https://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@github.com/git-arjav/Tic-Tac-Toe.git
+git remote set-url origin https://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@github.com/ProfessorPrasam/MAD_project.git
 git push origin
-git pull
-git add .
-git commit -m "one added"
-git pull
-git checkout -b Experiment
-git add .
-git commit -m "project added"
-git status
-git push
- git push --set-upstream origin Experiment
- git push --set-upstream origin Experiment
-git branch
-git brach -d experiment
-git checkout main
-git branch -d experiment
-git branch -d Experiment
-git branch
-git clone https://github.com/Anjalitiwari130902/Mumbai1.git
-ls
-cd Mumbai1
-ls
-git status
-git pull
-git status
-git log --oneline
-git reset --hard a852c34 
-git log --oneline
-git pull
-git status
-git log --oneline
-git checkout 634e02f
-git switch -c xmass
-ls
-cd..
-cd firstProject
-git pull
-git checkout -b Experiment
-cd ..
-git clone https://github.com/Arzookh/FirstProject.git
-git clone https://github.com/Arzookh/FirstProject.git
-git pull
-ls
-git pull
-cd  FirstProject
-git pull
-git checkout -b Experiment1
-git add .
-git commit -m "bhutan added"
-git status
-git push
- git push --set-upstream origin Experiment1
-git -v
-git clone https://github.com/AP-Atul/music_player_lite.git
-git clone https://github.com/AP-Atul/music_player_lite.git
-cd music_player_lite
-ls
-hello
-git --version
-push
-git push
-git remote set-url origin https://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@github.com/vpakhi/firstrepo.git
-git push origin
-pwd
-git clone https://github.com/lakshhhhh/FirstProject.git
-git clone https://github.com/lakshhhhh/FirstProject.git
-pwd
-git clone https://github.com/kunal1328/projectDemocracy.git
-ls
-git clone https://github.com/kunal1328/ProjectDemocracy_201b143.git
-ls
-cd ProjectDemocracy_201b143
-ls
-git  --version
-pwd
-git clone https://github.com/manas15s/first.git
-ls
-cd first
-ls
-git status
-git status
-git status
-pwd
-git cloner
-git cloner https://github.com/manasd9407/terminator04.git
-ls
-cd
-cd projectterminator04
-cd terminator04
-git clone 
-git clone https://github.com/manasd9407/terminator04.git
-git status
-git@.
-git add .
-git status
-git status
-git status
-pwd
-git clone https://github.com/Nilabh21/ProjectDemocracy.git
-ls
-git clone https://github.com/Nilabh21/projectDemocracy_201b170.git
-ls
-cd projectDemocracy_201b170
+git clone https://github.com/ProfessorPrasam/ProjectDemocracy_201B189.git
 ls
 git add README.md
 git status
-git add README.md
-git status
+cd ProjectDemocracy_201B189
+ls
+git stratus
 git status
 git add .
 git status
-git commit -m "I added America as a Democracy"
-pwd
-git version
-pwd
-git clone https://github.com/kunal100602/FirstProject.git
-cd FirstProject
-pwd
-git clone https://github.com/mkp179/ProjectDemocracy.git
-ls
-It becomes unstaged.
-ls
-201b145
-date
-time
-ping
-ls
-add 201b192
-mkdir 201b192_mad
-cd 201b192_mad
-pwd
-git clone https://github.com/vpakhi/firstrepo.git
-ls
-cd firstrepo
-ls
-git status
+git commit -m "projectdemocracy commit"
 git push
-git remote set-url origin https://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@github.com/vpakhi/firstrepo.git
+git remote set-url origin ps://https://github.com/ProfessorPrasam/ProjectDemocracy_201B189.git
+git remote set-url origin https://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@github.com/ProfessorPrasam/ProjectDemocracy_201B189.git
+git push origin
+git pull
+git pull
+exit
+git push
+git remote set-url origin https://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@github.com/kunal25052001/projectdemocracy_Kunalmishra.git
+git push origin
+git push origin Everything up-to-date
+ls
+cd projectdemocracy_Kunalmishra
+git push
+git remote set-url origin https://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@github.com/kunal25052001/projectdemocracy_Kunalmishra.git
 git push origin
 git pull
 clear
@@ -213,62 +91,216 @@ git pull
 git add .
 git commit -m "one added"
 git pull
-git --version
-grt clone https://github.com/kunal1328/ProjectDemocracy_201b143.git
-get clone https://github.com/kunal1328/ProjectDemocracy_201b143.git
-git clone https://github.com/kunal1328/ProjectDemocracy_201b143.git
-ls
-git push
-cd ProjectDemocracy_201b143
-ls
-git status
-git add README.md
-git status
-git status
-git add README.md
-git status
-git commit -m"i am kunal"
-git push
-git remote set-url origin https://github.com/kunal1328/ProjectDemocracy_201b143.git
-git remote set-url origin https://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@github.com/kunal1328/ProjectDemocracy_201b143.git
-git push origin
-git pull
-git config
-git config --get-all
-git config --get-all 
-git config --global
-git config --get-all
-git config --global --get-all
-git
-git status
-git init
-git status
-git add -A
-git commit -m "first-commit"
-git status
-git push
-mkdir a
-cd a
-git init
-nano hello
 git add .
 git status
-git status
-git config --global --get-all
-git config --global -l
-git config --global
-git config --system --get-all
-git config --system --unset-all
-git login
-git --help
+git commit -m "merged changes done"
 git push
-git remote set-url origin https://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github.com/pompa09/projectdemocracy.git
-push origin
-git remote set-url origin https://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github.com/pompa09/projectdemocracy.git
+exit
 pwd
-git clone https://github.com/201b168/ProjectDemocracy.git
+git clone https://github.com/NikitaMishra0908/NM_projectdemocracy.git
 ls
-cd ProjectDemocracy
+cd NM_projrctdemocracy
+NM_projectdemocracy
+cd NM_projectdemocracy
+git status
+git add README.md
+git status
+git push
+git remote set-url origin https://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@github.com/pompa09/machine-_learning.git
+git push origin
+git push -u origin main
+git branch -M main
+git push -u origin main
+git remote set-url origin https://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@github.com/pompa09/machine-_learning.git
+git push origin
+git push origin main
+ git push --set-upstream origin main
+git pull
+git pull origin main
+git status
+git remote -v
+git pull origin
+git pull origin main
+pwd
+cd c:
+mkdir pompa
+cd pompa
+git clone https://github.com/pompa09/machine-_learning.git
+git remote set-url origin https://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@github.com/pompa09/machine-_learning.git 
+git init
+git remote set-url origin https://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@github.com/pompa09/machine-_learning.git 
+git remote add origin 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
+git remote set-url origin https://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@github.com/pompa09/machine-_learning.git 
+git push
+ git push --set-upstream origin main
+git add .
+git commit -m "Pmpa first change"
+git push
+ git push --set-upstream origin main
+git pull
+git sttus
+git status
+ls
+cd machine_learning
+cd machine*
+ls
+git push
+git remote set-url origin https://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@github.com/pompa09/machine-_learning.git 
+git push
+git pull
+git pull
+git pull
+git pull
+git push
+git push
+git pull
+git remote set-url origin https://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@github.com/pompa09/machine-_learning.git
+git push
+git remote set-url origin https://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@github.com/pompa09/machine-_learning.git
+git push
+git pull
+git remote set-url origin https://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@github.com/pompa09/machine-_learning.git
+git push
+git remote set-url origin https://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@github.com/pompa09/machine-_learning.git
+git push
+git push
+git pull
+git remote set-url origin https://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@github.com/pompa09/machine-_learning.git
+git pull
+git pull
+git remote set-url origin https://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@github.com/pompa09/machine-_learning.git
+git pull
+git pull
+git commit -m "First"
+git add .
+git commit -m "First"
+git pull
+git pull
+git commit -m "First"
+git commit -m "sec"
+git add.
+git commit -m "sec"
+git push
+ git remote set-url origin https://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@github.com/pompa09/machine-_learning.git
+git push
+git pull
+git commit -m "like"
+git add.
+add
+ git commit -m "sec"
+ git remote set-url origin https://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@github.com/pompa09/machine-_learning.git
+git pull
+git pull
+git status
+it add .a
+git add.
+git add .
+git status
+git pull
+ git commit -m "merged"
+git pull
+git push
+ git remote set-url origin https://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@github.com/pompa09/machine-_learning.git
+git push
+git pull
+ git commit -m "sec"
+git pull
+git commit -m :"since"
+git add .
+git commit -m :"since"
+git push
+git pull
+git push
+git push
+git pull
+git push
+git status
+git add .
+git commit -m "second"
+git push
+git push
+git status
+git add .
+git commit -m "second"
+git push
+git pull
+git --version
+git config --global user.name "mayank badaulia"
+git config --global user.email "201b152@juetguna.in"
+git config --global user.email
+mkdir letslearngit
+cd letslearngit/
+Git init
+ls -a
+git status
+pwd
+git remote add origin https://github.com/Mayank-badaulia/p-demcracy-1.git
+git remote -v
+git push
+git push --set-upstream origin main
+git push --set-upstream origin main -f
+git pull
+touch README.md
+nano README.md
+git init
+git add -A
+git commit -m "hello"
+git remote add origin1 https://github.com/Mayank-badaulia/p-demcracy-1.git
+git push main
+git push
+git push --set-upstream origin main
+git push --set-upstream origin1 main
+git config --global.username
+git config --global 
+git log
+git comment -m "initial comit"
+git add.
+git checkout master
+git branch
+git push
+git remote set-url origin 
+git remote set-url origin https://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@github.com/ITSNAYAN/ITSNAYAN.git
+git push origin
+git push origin 
+pwd
+ls
+cd 201b192_mad
+git clone https://github.com/prathmeshmodhe/ProjectDemocracy_PrathmeshModhe.git
+git remote set-url origin https://@github.com/prathmeshmodhe/ProjectDemocracy_PrathmeshModhe.git
+git remote set-url origin https://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@github.com/prathmeshmodhe/ProjectDemocracy_PrathmeshModhe.git
+git push origin
+git remote set-url origin https://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@github.com/prathmeshmodhe/ProjectDemocracy_PrathmeshModhe.git
+git push origin
+ls
+cd ProjectDemocracy_PrathmeshModhe
+ls
+git remote set-url origin https://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@github.com/prathmeshmodhe/ProjectDemocracy_PrathmeshModhe.git
+git push origin
+git pull
+git pull
+git status
+git add .
+git commit -m "updated"
+git push origin main
+git config --global user.email "201b131@juetguna.in"
+git config --global user.name "JuberiyaZ"
+git status
+git push origin main
+git remove -v
+git remote -v
+git remote set-url origin https://JuberiyaZ@github.com/JuberiyaZ/mad_lab.git
+git push origin main
+git --version
+pwd
+git clone https://github.com/PawasAgrawalJUET/My_Project.git
+pwd
+cd My_Project
+pwd
+cd ..
+git clone https://github.com/PawasAgrawalJUET/ProjectDemocracy_201B175.git
+pwd
+ls
+cd ProjectDemocracy_201B175
 ls
 git status
 git add README.md
@@ -277,88 +309,88 @@ git status
 git add .
 git status
 git commit -m "I added America as a democracy"
-ls
-pwd
-cd
-/
-cd /
-ls
-cd usr
-ls
-cd ~
-ls
-ls
-mkdir 201b189_git
-cd 201b189_GIT
-cd
-cd 201b189_GIT
-ls
-git clone https://github.com/ProfessorPrasam/MAD_project.git
-ls
-cd MAD_project
-ls
-git status
-git add README.md
-git status
-cat README.md
-git commit -m"use git commit commond to commit using linux or mingw"
 git push
-git -h
-git --help
-git login
-logout
+git remote set-url origin https://@github.com/PawasAgrawalJUET/ProjectDemocracy_201B175.git
+ratnesh.tiwari@CL4-421 MINGW64 ~ (main)
+$ git --version
+git version 2.36.0.windows.1
+ratnesh.tiwari@CL4-421 MINGW64 ~ (main)
+$ pwd
+/n/
+ratnesh.tiwari@CL4-421 MINGW64 ~ (main)
+$ git clone https://github.com/PawasAgrawalJUET/My_Project.git
+Cloning into 'My_Project'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), done.
+Resolving deltas: 100% (1/1), done.
+ratnesh.tiwari@CL4-421 MINGW64 ~ (main)
+$ pwd
+/n/
+ratnesh.tiwari@CL4-421 MINGW64 ~ (main)
+$ cd My_Project
+ratnesh.tiwari@CL4-421 MINGW64 /n/My_Project (main)
+$ pwd
+/n/My_Project
+ratnesh.tiwari@CL4-421 MINGW64 /n/My_Project (main)
+$ cd ..
+ratnesh.tiwari@CL4-421 MINGW64 /n (main)
+$ git clone https://github.com/PawasAgrawalJUET/ProjectDemocracy_201B175.git
+Cloning into 'ProjectDemocracy_201B175'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+ratnesh.tiwari@CL4-421 MINGW64 /n (main)
+$ pwd
+/n
+ratnesh.tiwari@CL4-421 MINGW64 /n (main)
+$ ls
+-ProjectDemocracy179/   Mumbai1/                   ProjectDemocracy_Juberiya/  asy_first_project/    projectDemocracy_201b170/
+201B026/                My_Project/                ProjectDemocracy_kunal/     first/                project_democracy_aish/
+201B189_GIT/            NMfirstproject/            ProjectDemocrayUS/          first.sh*             projectdemocracy_201b032/
+201B318/                Project-Democracy/         ProjectDiscuss/             first_project/        projectdemocracy_201b042/
+201b062/                Project-Democracy_kunal/   ProjectIndia/               letslearngit/         projectdemocracy_Kunalmishra/
+201b192_mad/            ProjectDemocracy/          Projectt1/                  mumbai/               terminator04/
+FirstProject/           ProjectDemocracy_011/      Thumbs.db                   newmad/
+FirstProject_201b146/   ProjectDemocracy_201B175/  adi/                        project/
+First_Project_201B019/  ProjectDemocracy_201b008/  anshuma_ws/                 project1/
+MAD-Project/            ProjectDemocracy_201b143/  anushka/                    projectDemocracy005/
+ratnesh.tiwari@CL4-421 MINGW64 /n (main)
+$ cd ProjectDemocracy_201B175
+ratnesh.tiwari@CL4-421 MINGW64 /n/ProjectDemocracy_201B175 (main)
 pwd
-git clone https://github.com/kunal100602/ProjectDemocracy.git
 ls
-cd ProjectDemocracy
-ls
-pwd
-git clone https://github.com/kunal25052001/first_project.git
-pwd
-cd first_project
-pwd
-clear
-pwd
-git clone https://github.com/kunal25052001/projectdemocracy.git
-cd projectdemocracy
-ls
-pwd
-git clone https://github.com/PiyushPathakCS/ProjectDemocracy.git 
-ls
-cd ProjectDemocracy
-ls
-get status
-git status
-git status
-git add README.md
-git staus
-git status
-git commit -m "I promoted Democracy"
 git push
-git remote set-url origin
-git remote set-url origin https://github.com/PiyushPathakCS/ProjectDemocracy.git
-git remote set-url origin https://@github.com/PiyushPathakCS/ProjectDemocracy.git
+git remote set-url origin https://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@github.com/PawasAgrawalJUET/ProjectDemocracy_201B175.git
+git push origin
+git push origin
+cd ..
+cd..
+cd ..
 pwd
-git clone https://github.com/kunal100602/ProjectDemocracy.git
+cd ..
+cd c:
+mkdir pawas
+cd pawas
+git init
+ls
+git clone README.md
+git clone https://github.com/PawasAgrawalJUET/ProjectDemocracy_201B175.git
+ls
+cd ProjectDem*
+ls
+git pull
+git pull
+git pull
+exit
 pwd
-git clone https://github.com/kunal100602/Project-Democracy_kunal.git
+git clone https://github.com/201b168/ProjectIndia.git
 ls
-cd Project Democracy_kunal
-ls
-pwd
-git clone https://github.com/kunal100602/Project-Democracy_kunal.git
-cd ProjectDemocracy
-git push
-git push
-git remote set-url origin
-pwd
-git clone https://github.com/kunal25052001/projectdemocracy.git
-ls
-pwd
-git clone https://github.com/kunal100602/ProjectDemocracy_kunal.git
-ls
-cd ProjectDemocracy_kunal
-ls
+cd ProjectIndia
 ls
 git status
 git add README.md
@@ -366,125 +398,13 @@ git status
 git status
 git add .
 git status
-git commit -m"I added America as a Democracy
-git commit -m"I added America as a Democracy"
-
-
-$ git command
-;
-:
+git commit -m "I added America as a democracy"
 git push
-git push
-git remote set-url origin https://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@github.com/pompa09/recommendation.git
+git remote set-url origin https://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@github.com/201b168/ProjectIndia.git
 git push origin
-ls
-cd 201b192_mad
-pwd
-git clone
-git clone https://github.com/prathmeshmodhe/ProjectDemocracy.git
-ls
-cd ProjectDemocracy
-ls
-git status
-git add README.md
-git status
-git add .
-git status
-ls
-git commit -m "America is also a democracy"
-ls
-ls
-git clone https://github.com/prathmeshmodhe/ProjectDemocracy_PrathmeshModhe.git
-ls
-cd ProjectDemocracy_PrathmeshModhe
-ls
-cd main
-cd 201b192_mad
-pwd
-clone https://github.com/mkp179/-ProjectDemocracy179.git
-git clone https://github.com/mkp179/-ProjectDemocracy179.git
-ls
-cd ProjectDemocracy179
-ls
-cd ProjectDemocracy179
+git pull
 git push
 git push
-git push
-git remote set-url origin https://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@github.com/pompa09/machine-_learning.git
-git push origin
-git --version
-pwd
-git clone https://github.com/lakshhhhh/FirstProject_201b146.git
-pwd
-cd FirstProject_201b146
-ls
-ls
-git clone https://github.com/lakshhhhh/ProjectDemocracy_201b146.git
-ls
-cd ProjectDemocracy_201b146
-ls
-git status
-git add README.md
-git status
-git status
- git add .
-git status
-git commit -m "I added america as a Democracy"
-git config --global user.name["juberiya"]
-git config --global juberiya.zaheer "juberiya Zaheer"
-git clone https://github.com/JuberiyaZ/ProjectDemocracy_Juberiya.git
-ls
-cd ProjectDemocracy_201b131
-cd ProjectDemocracy
-ls
-git config --global user.201B131 "Juberiya Zaheer"
-git config --global user.name "Juberiya Zaheer"
-ls
-git clone https://github.com/JuberiyaZ/ProjectDemocracy_Juberiya.git
-ls
-cd
-cd ProjectDemocracy
-ls
-git status
-git add README.md
-git status
-git status
-git status
-git add .
-git status
-git commit -m "I addad America as a democracy"
-pwd
-git push
-git remote set-url origin 
-git remote set-url origin
-git remote set-url origin 
-git remote set-url origin https://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@github.com/kunal100602/ProjectDemocracy_kunal.git
-git push origin
-git push
-pwd
-git clone https://github.com/KartikGhaii/Hellogit.git
-pwd
-cd hellogit
- exit
-pwd
-git push
-git --version
-pwd
-git clone https://github.com/RaiMrina/FirstProject.git
-pwd
-cd FirstProject
-ped
-pwd
-cd ProjectDemocracy_201b146
-pwd
-cd PRojectDemocracy_201b146
-cd ProjectDemocracy_201b146
-cd FiirstProject_201b146
-cd FirstProject_201b146
-cd ProjectDemocracy_201b146
-git push
-git remote set-url origin https://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@github.com/lakshhhhh/ProjectDemocracy_201b146.git
-git push origin
 git pull
 clear
 git pull
@@ -492,9 +412,89 @@ git add .
 git commit -m "one added"
 git pull
 git add .
-git commit -m "merged changes done"
+git commit -m "Merged changes done"
 git push
 git push
-git remote set-url origin https://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@github.com/JuberiyaZ/ProjectDemocracy_Juberiya.git
-ori pushorigin
+git pull
+git init
+git pull
+git pull origin main
+git pulll
+git pull
+git remote add origin git@github.com:PradhumnaSingh02/tic_tac_toe_game.git
+git remote set-url origin https://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@github.com/PradhumnaSingh02/tic_tac_toe_game.git
+git push
+git push --set-upstream origin main
+ls
+git push
+git push --set-upstream origin main
+git push
+git remote set-url origin https://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@github.com/PiyushPathakCS/ProjectDemocracy.git 
+git remote set-url origin https://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@github.com/PiyushPathakCS/ProjectDemocracy.git 
+git remote set-url origin https://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gi@github.com/PiyushPathakCS/ProjectDemocracy.git 
+git remote set origin https://github.com/PiyushPathakCS/ProjectDemocracy.git
+git remote add origin https://github.com/PiyushPathakCS/ProjectDemocracy.git
+git remote set origin https://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@github.com/PiyushPathakCS/ProjectDemocracy.git
+git remote set-url origin https://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@github.com/PiyushPathakCS/ProjectDemocracy.git
+git push
 git push origin
+git push --set-upstream origin main
+ git clone https://github.com/PiyushPathakCS/Project.git
+git clone https://github.com/PiyushPathakCS/ProjectDemocrayUS.git
+git push remote set-url origin https://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@github.com/PiyushPathakCS/ProjectDemocrayUS.git
+git push
+git push origin
+git clone https://@github.com/PiyushPathakCS/ProjectDemocrayUS.git
+git push remote set-url origin https@github.com/PiyushPathakCS/ProjectDemocrayUS.git
+$ git push remote set-url origin https://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@github.com/PiyushPathakCS/ProjectDemocrayUS.git
+git commit -m Democracy
+$ git push remote set-url origin https://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@github.com/PiyushPathakCS/ProjectDemocrayUS.git
+git push
+git push --set-upstream origin main
+git pull
+git pull origin main
+git add .
+git commit -m "my proj1"
+git push
+git push --set-upstream origin main
+git pull
+git pull origin main
+git pull origin
+ls
+cd ProjectDemocracyUS
+cd ProjectDemocrayUS
+git push
+$ git push remote set-url origin https://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@github.com/PiyushPathakCS/ProjectDemocrayUS.git
+$ git remote set-url origin https://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@github.com/PiyushPathakCS/ProjectDemocrayUS.git
+$ git remote set-url origin https://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@github.com/PiyushPathakCS/ProjectDemocrayUS.git
+git remote set-url origin https://github.com/PiyushPathakCS/ProjectDemocrayUS.git
+git remote set-url origin https://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@github.com/PiyushPathakCS/ProjectDemocrayUS.git
+git push
+git remote set-url origin https://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@github.com/PiyushPathakCS/ProjectDemocrayUS.git
+git push
+git pull
+git pull
+git add
+git add .
+git commit
+git commit -m "one added "
+git pull
+git add .
+git status
+git commit -m "Merge changes done"
+git push
+git config --list
+exit
+clone https://github.com/VidhiKuls/Project_201b361.git
+ls
+cd
+cd
+git clone https://github.com/amitdubey6261/Juet-Buils.git
+git clone https://github.com/Virad01/android-studio.git
+git remote set-url origin https://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@github.com/Virad01/android-studio.git
+pwd
+git status
+git pull
+git status 
+git init
+git status 

@@ -1,0 +1,49 @@
+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
+
+
+
+
+
+ratnesh.tiwari@CL4-407 MINGW64 ~ (main)
+$ git push
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+
+ratnesh.tiwari@CL4-407 MINGW64 ~ (main)
+$ git remote set-url origin
+usage: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    --push                manipulate push URLs
+    --add                 add URL
+    --delete              delete URLs
+
+
+ratnesh.tiwari@CL4-407 MINGW64 ~ (main)
+$ git remote set-url origin https://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@github.com/ITSNAYAN/ITSNAYAN.git
+
+ratnesh.tiwari@CL4-407 MINGW64 ~ (main)
+$ git push origin
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+
+ratnesh.tiwari@CL4-407 MINGW64 ~ (main)
+$ git push origin
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+
+ratnesh.tiwari@CL4-407 MINGW64 ~ (main)
+$
+
+
+
